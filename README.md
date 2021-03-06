@@ -1,5 +1,5 @@
 # 応用課題
-  【Bookers2へ「フォロー/フォロワー機能」を実装】
+  【Bookers2へ「検索機能」を実装】
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
